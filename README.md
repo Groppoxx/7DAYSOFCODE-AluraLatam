@@ -10,7 +10,7 @@ El repositorio está organizado en carpetas por días. Cada carpeta contiene:
 * Descripción del Desafío: Un archivo README.md específico del día con una descripción detallada del desafío.
 * Solución: El código fuente que resuelve el desafío del día.
 
-```sh
+```
 📂 Desafío Día 1
    ├── README.md
    ├── solucion.js
