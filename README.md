@@ -23,7 +23,7 @@ El repositorio está organizado en carpetas por días. Cada carpeta contiene:
 | Día | Descripción del Desafío | Lenguaje Utilizado |
 | ------ | ------ |------ |
 | 1 | [Desafío Día 1](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%201) | JavaScript |
-| 2 | [Desafío Día 2] | JavaScript |
+| 2 | [Desafío Día 2](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%202) | JavaScript |
 | 3 | [Desafío Día 3] | JavaScript |
 | 4 | [Desafío Día 4] | JavaScript |
 | 5 | [Desafío Día 5] | JavaScript |
