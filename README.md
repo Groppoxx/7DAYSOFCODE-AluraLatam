@@ -35,8 +35,8 @@ El repositorio está organizado en carpetas por días. Cada carpeta contiene:
 ```
 
 ## Desafíos Resueltos
-| Día | Descripción del Desafío | Lenguaje Utilizado |
-| ------ | ------ |------ |
+| Día | Descripción del Desafío |
+| ------ | ------ |
 | 1 | [Desafío Día 1](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%201) |
 | 2 | [Desafío Día 2](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%202) |
 | 3 | [Desafío Día 3](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%203) |
