@@ -1,4 +1,4 @@
-# Desafío: Creación de Juego Interactivo con Elecciones en JavaScript
+# Desafío: Estructuras de control de flujo
 
 ## Descripción
 
