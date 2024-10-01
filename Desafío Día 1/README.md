@@ -12,8 +12,8 @@ El objetivo principal es:
 ## Detalles
 Se te proporcionan variables de tipo numérico y de tipo cadena. Deberás escribir condiciones que utilicen los operadores ```==``` (para comparar solo el valor) y ```===``` (para comparar valor y tipo) para verificar las siguientes situaciones:
 
-* Si dos variables tienen el mismo valor pero tipos diferentes.
-* Si dos variables tienen el mismo valor y tipo.
-* Si dos variables no tienen el mismo valor.
+1. Si dos variables tienen el mismo valor pero tipos diferentes.
+2. Si dos variables tienen el mismo valor y tipo.
+3. Si dos variables no tienen el mismo valor.
 
 El resultado de estas comparaciones se imprimirá en la consola, mostrando mensajes claros y precisos según la situación.
