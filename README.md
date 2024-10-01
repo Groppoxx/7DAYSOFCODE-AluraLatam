@@ -37,13 +37,13 @@ El repositorio está organizado en carpetas por días. Cada carpeta contiene:
 ## Desafíos Resueltos
 | Día | Descripción del Desafío | Lenguaje Utilizado |
 | ------ | ------ |------ |
-| 1 | [Desafío Día 1](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%201) | JavaScript |
-| 2 | [Desafío Día 2](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%202) | JavaScript |
-| 3 | [Desafío Día 3](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%203) | JavaScript |
-| 4 | [Desafío Día 4](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%204) | JavaScript |
-| 5 | [Desafío Día 5](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%205) | JavaScript |
-| 6 | [Desafío Día 6](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%206) | JavaScript |
-| 7 | [Desafío Día 7](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%207) | JavaScript |
+| 1 | [Desafío Día 1](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%201) |
+| 2 | [Desafío Día 2](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%202) |
+| 3 | [Desafío Día 3](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%203) |
+| 4 | [Desafío Día 4](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%204) |
+| 5 | [Desafío Día 5](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%205) |
+| 6 | [Desafío Día 6](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%206) |
+| 7 | [Desafío Día 7](https://github.com/Groppoxx/7DAYSOFCODE-AluraLatam/tree/main/Desaf%C3%ADo%20D%C3%ADa%207) |
 
 ## Conecta Conmigo
 * GitHub: [Groppoxx](https://github.com/Groppoxx)
